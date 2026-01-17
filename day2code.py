@@ -14,7 +14,7 @@
 import pandas as pd
 df = pd.read_csv("ai_job_trends_dataset.csv")
 df.head()
-# %%
+#%%
 
 # What do you notice about the extension menu?
 # I notice that the extension menu is very organized, allowing you to search and filter results for any extensions you may need (in this case, Data Wrangler). It was very easy to download directly from the menu, and clicking on it gave a more detailed analysis of the extension.
@@ -28,4 +28,4 @@ df.head()
 # Why do we use a requirements.txt file?
 # A requirements.txt file allows for consistent and reproducible Python environments by compiling all required packages and their versions together into one list.
 
-# %%
+#%%
